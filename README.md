@@ -22,8 +22,8 @@ The following sorting algorithms are currently implemented:
 ## Demos
 
 
-!(https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/79e13284-f115-4a9b-bdf3-4d42e9277bcb)
-(https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/10217564-a204-4c7a-aadc-fd536359e097)
+![1](https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/79e13284-f115-4a9b-bdf3-4d42e9277bcb.PNG)
+https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/10217564-a204-4c7a-aadc-fd536359e097
 
 
 
