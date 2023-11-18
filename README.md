@@ -23,7 +23,6 @@ The following sorting algorithms are currently implemented:
 
 
 ![1](https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/79e13284-f115-4a9b-bdf3-4d42e9277bcb.PNG)
-https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/10217564-a204-4c7a-aadc-fd536359e097
 
 
 https://github.com/27manavgandhi/Comparison-Sorting-Algorithms/assets/77005766/14e1034b-e127-45c4-9ae7-7874364c9cf0
